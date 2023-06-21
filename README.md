@@ -1,7 +1,7 @@
 Task 1:
 For task 1   I have used open-sourced Automatic Speech Recognition (ASR) models such as Wav2Vec. Dependencies:
-transformers
-torchaudio
+transformers,
+torchaudio,
 torch
 
 Task 2:
